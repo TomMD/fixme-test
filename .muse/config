@@ -1,3 +1,5 @@
 # Muse configuration file
 
-customTools = [ ".muse/check-common-comments.sh" ]
+customTools = [ "https://docs.muse.dev/scripts/pmd.sh rulesets/java/quickstart.xml"
+              , "https://docs.muse.dev/scripts/shellcheck.sh"
+              ]
