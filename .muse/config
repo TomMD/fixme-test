@@ -1,5 +1,6 @@
 # Muse configuration file
 
+tools = [ ] # No built-in tools please
 customTools = [ "https://docs.muse.dev/scripts/pmd.sh rulesets/java/quickstart.xml"
               , "https://docs.muse.dev/scripts/shellcheck.sh"
               ]
