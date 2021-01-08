@@ -1,5 +1,3 @@
 # Muse configuration file
 
-customTools = [ "https://docs.muse.dev/scripts/pmd.sh rulesets/java/quickstart.xml"
-              , "https://docs.muse.dev/scripts/shellcheck.sh"
-              ]
+tools = [ "cobra" ]
